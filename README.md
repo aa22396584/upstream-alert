@@ -1,5 +1,10 @@
 # 🔍 upstream-alert
 
+> **Development home:** https://github.com/ImL1s/upstream-alert  
+> Please open issues and pull requests there.  
+> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/upstream-alert) · [GitLab](https://gitlab.com/aa22396584/upstream-alert)
+
+
 > **Give your AI agent eyes on the global supply chain.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
