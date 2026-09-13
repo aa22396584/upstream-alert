@@ -8,6 +8,8 @@ https://github.com/aa22396584/upstream-alert
 [Codeberg](https://codeberg.org/ImL1s/upstream-alert)
 
 
+> **Why this GitHub home?** Public development moved here from [`ImL1s/upstream-alert`](https://github.com/ImL1s/upstream-alert) because that GitHub account is currently restricted (anonymous visitors get 404 on the profile and many assets). This is the same project. Please open Issues and Pull Requests here.
+
 > **Give your AI agent eyes on the global supply chain.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
