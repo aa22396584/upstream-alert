@@ -1,8 +1,11 @@
 # 🔍 upstream-alert
 
-> **Development home:** https://github.com/ImL1s/upstream-alert  
-> Please open issues and pull requests there.  
-> **Mirrors:** [Codeberg](https://codeberg.org/ImL1s/upstream-alert) · [GitLab](https://gitlab.com/aa22396584/upstream-alert)
+**Development, Issues & Pull Requests:**  
+https://github.com/aa22396584/upstream-alert
+
+**Mirrors:**  
+[GitLab](https://gitlab.com/aa22396584/upstream-alert) ·
+[Codeberg](https://codeberg.org/ImL1s/upstream-alert)
 
 
 > **Give your AI agent eyes on the global supply chain.**
@@ -237,7 +240,7 @@ upstream-alert/
 ## 🤝 Contributing
 
 ```bash
-git clone https://github.com/ImL1s/upstream-alert
+git clone https://github.com/aa22396584/upstream-alert
 cd upstream-alert
 pip install -e ".[dev]"
 pytest  # 155+ tests
